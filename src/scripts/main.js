@@ -36,4 +36,3 @@ average = processedValues[1];
 
 totalElement.innerHTML = total;
 averageElement.innerHTML = average;
-
